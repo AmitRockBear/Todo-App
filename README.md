@@ -1,5 +1,5 @@
 # Todo-App-Postgres
-Simple CRUD full-stack app made for learning how to use PostgreSQL, written in 2020.
+Simple CRUD full-stack app made for learning how to use PostgreSQL.
 
 The backend is written in JS using nodeJS and the following technologies:
 - express
